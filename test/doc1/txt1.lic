@@ -1,0 +1,15 @@
+<!doctype html>
+<title>Example</title>
+<style>
+  ul { 
+    list-style: square inside;
+    font-size: 2em;
+    color: darkorange; 
+    }
+</style>
+<p>The <code>list-style</code> property is shorthand for:</p>
+<ul>
+  <li>list-style-type</li>
+  <li>list-style-position</li>
+  <li>list-style-image</li>
+</ul>
